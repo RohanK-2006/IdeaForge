@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "IdeaForge",
+    "slug": "IdeaForge",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/IdeaForgeIcon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "splash": {
+      "backgroundColor": "#E6F4FE"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/IdeaForge-foreground.png",
+        "backgroundImage": "./assets/IdeaForge-background.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.soulcord.IdeaForge"
+    }
+  }
+}
