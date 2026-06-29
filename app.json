@@ -20,6 +20,14 @@
       },
       "predictiveBackGestureEnabled": false,
       "package": "com.soulcord.IdeaForge"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "888330a2-3268-4268-b7e7-9cc99af72a89"
+      }
+    },
+    "plugins": [
+      "./plugins/withNavigationBarContrast"
+    ]
   }
 }
